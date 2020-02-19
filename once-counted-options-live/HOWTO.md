@@ -2,6 +2,7 @@
 
 ## How to install
 * Start by making a backup (both DB and store files)!!!
+* Install «Once Counted Options+» and «Live Options+» before
 * Admin > Extensions > Installer > [Upload]: once-counted-options-live.ocmod.zip
 * Admin > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
