@@ -4,11 +4,10 @@
 The Once Counted Options Live extension is for Opencart 3 CMS. It adds compatibility with [Live Options](https://github.com/underr-ua/ocmod3-live-options) extensions.
 
 ## Live demo
-[Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/MOD_TYPE/MOD_NAME)
-[Front](http://ocmod.freevar.com/oc3020/a)
+* [Front](http://ocmod.freevar.com/oc3020/a)
 
 ## License
-[License](https://git.io/GITHUB_LICENSE_ID)
+[License](https://git.io/JvBYo)
 
 ## Related links
 [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38489)
