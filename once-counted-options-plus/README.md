@@ -9,11 +9,9 @@ The Once Counted Options+ extension is for Opencart 3 CMS. It allows to calculat
 * Multistore support
 * [Live Options+](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38489) support
 
-
 ## Live demo
 [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/once_counted_options)
 [Front](http://ocmod.freevar.com/oc3020/a)
-
 
 ## License
 [End-User License Agreement](https://git.io/JvBm1)
