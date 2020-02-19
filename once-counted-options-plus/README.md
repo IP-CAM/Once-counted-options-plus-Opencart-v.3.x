@@ -5,7 +5,7 @@ The Once Counted Options+ extension is for Opencart 3 CMS. It allows to calculat
 
 ## Features
 * Calculating the option price only once, regardless of the selected quantity of product.
-* Warning message about special property of such option
+* Warning message about the special property of the option
 * Multistore support
 * [Live Options+](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38489) support
 
