@@ -18,7 +18,7 @@ The Once Counted Options+ extension is for Opencart 3 CMS. It allows to calculat
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38489)
-* [Homepage](https://underr.space/en/notes/projects/project-023.html)
+* [Homepage](https://underr.space/en/notes/projects/project-0023.html)
 * [GitHub](https://git.io/Jvni3)
 
 ## Related modules and extensions
