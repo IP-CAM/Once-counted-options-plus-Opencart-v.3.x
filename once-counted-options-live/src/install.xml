@@ -9,7 +9,7 @@ code package and also available on the project page: https://git.io/Jvni3.
 <modification>
 	<name>[underr] Once Counted Options Live</name>
 	<code>once-counted-options-live</code>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<author>Andrii Burkatskyi aka underr</author>
 	<link>https://git.io/Jvni3</link>
 
@@ -29,10 +29,9 @@ code package and also available on the project page: https://git.io/Jvni3.
 			<add position="after">
 				<![CDATA[			/// << Once Counted Options Live
 			if ($this->config->get('module_once_counted_options_status') &&
-				$this->config->get('module_once_counted_options_store')[$this->config->get('config_store_id')]
+				isset($this->config->get('module_once_counted_options')['store'][$this->config->get('config_store_id')])
 			) {
-				$this->once_count_status =
-					$this->config->get('module_once_counted_options_store')[$this->config->get('config_store_id')];
+				$this->once_count_status = $this->config->get('module_once_counted_options')['store'][$this->config->get('config_store_id')];
 			}
 			/// Once Counted Options Live >>]]>
 			</add>
