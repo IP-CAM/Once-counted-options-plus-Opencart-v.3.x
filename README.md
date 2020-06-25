@@ -14,12 +14,12 @@ The Once Counted Options+ extension is for OpenCart CMS v3.0.x. It allows to cal
 * [Front](http://ocmod.freevar.com/oc3020/a/mp3-players/ipod-shuffle)
 
 ## License
-[End-User License Agreement](https://git.io/JvBm1)
+[End-User License Agreement](https://git.io/JfjkQ)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38489)
 * [Homepage](https://underr.space/en/notes/projects/project-0023.html)
-* [GitHub](https://git.io/Jvni3)
+* [GitHub](https://git.io/JfjUN)
 
 ## Related modules and extensions
 * [Live Options+](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)
