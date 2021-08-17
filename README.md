@@ -1,5 +1,7 @@
 # Once Counted Options+
 
+## !!! Archived !!! All features of the module "Once Counted Options+" are available in the module "[Enhanced Options+](https://github.com/ocmod-space/ocmod-enhanced-options)"
+
 ## Description
 The Once Counted Options+ extension is for OpenCart CMS v3.0.x. It allows to calculate product option price only once, regardless of the selected product quantity.
 
